@@ -17,13 +17,13 @@
             // Mostrar el array después de generar la serie
             AC1.MostrarArray();
 
-            /*
+            
             //Crea el fichero donde estara la serie
-            string path = "E:/USis/ProgramII/PRO2-UPC/ronald/ficheros/for/ficheroArray.txt";
+            string path = "D:/UPC/Github/PRO2-UPC-HOMEWORK/Examen-Final/for/ficheroArray.txt";
             FicheroRonald fd = new FicheroRonald(path);
-            fd.EscribirArray(resultadoSerie);
+            fd.EscribirArray(AC1.ArrayCadenas);
             //Console.WriteLine();
-            */
+            
 
         }
     }
